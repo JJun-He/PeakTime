@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>축제 후기 사진 선택을 위해 사진 라이브러리 권한이 필요합니다.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>축제 후기 사진 촬영을 위해 카메라 권한이 필요합니다.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>축제 알림 서비스를 위해 위치 권한이 필요합니다.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>주변 축젝 정보를 찾기 위해 위치 권한이 필요합니다.</string>
+</dict>
+</plist>
