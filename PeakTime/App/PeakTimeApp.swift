@@ -6,12 +6,20 @@
 //
 
 import SwiftUI
+import Firebase
+import FirebaseAuth
+import FirebaseFirestore
 
 @main
 struct PeakTimeApp: App {
+    
+    init () {
+        FirebaseApp.configure()
+    }
+    
     var body: some Scene {
         WindowGroup {
-            SimpleMapViewControllerRespresentable()
+            ContentView();
         }
     }
 }
